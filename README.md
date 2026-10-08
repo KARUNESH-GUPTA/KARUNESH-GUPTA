@@ -1,250 +1,203 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ║             KARUNESH GUPTA — CYBER COMMAND UI             ║ -->
+<!--                    KARUNESH GUPTA — HERO                                -->
 
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!--             YOUR ORIGINAL BANNER IS KEPT EXACTLY HERE                    -->
 
-<img src="https://github.com/KARUNESH-GUPTA/KARUNESH-GUPTA/blob/main/banner.png" width="100%" alt="Karunesh Gupta original banner"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://github.com/KARUNESH-GUPTA/KARUNESH-GUPTA/blob/main/banner.png" width="100%" alt="Karunesh Gupta Banner"/>
 
 <br><br>
 
-<!-- HOLOGRAPHIC / ANIMATED ID CARD -->
-
-<img
-src="https://terminal-identity-opal.vercel.app/api?name=Karunesh%20Gupta&username=KARUNESH-GUPTA&role=Cybersecurity%20%26%20Research%20Enthusiast&tagline=Building%20knowledge%20today%20to%20secure%20the%20systems%20of%20tomorrow.&bio=GATE%20preparation%20%7C%20Computer%20Science%20%7C%20Cybersecurity%20%7C%20Research&status=CYBER%20%2B%20RESEARCH%20MODE%20ACTIVE&command=./karunesh_profile.sh&theme=obsidian/cobalt&avatar=KG&pattern=pulse&width=1200&height=auto&motion=scan&showContribs=on&contribTheme=signal&contribRange=16w&contribMode=focus&showLangs=on&langCount=4&langStyle=icons&iconSize=sm&barStyle=blocks"
-width="100%"
-alt="Animated holographic Karunesh Gupta terminal identity card"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Hi%2C+I'm+Karunesh+Gupta+%F0%9F%91%8B;Cybersecurity+%26+Research+Enthusiast+%F0%9F%94%90;B.Tech+Computer+Science+%26+Engineering+Student;Preparing+for+GATE+%F0%9F%93%9A;Learning+%7C+Building+%7C+Researching+%7C+Improving+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%5B+IDENTITY+VERIFIED+%5D;%5B+CYBERSECURITY+%3A+ACTIVE+%5D;%5B+RESEARCH+CORE+%3A+ONLINE+%5D;%5B+GATE+MISSION+%3A+RUNNING+%5D" alt="Animated command status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&repeat=true&width=760&height=35&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CYBERSECURITY+MODE%3A+ACTIVE+%5D;%5B+GATE+PREPARATION%3A+RUNNING+%5D;%5B+RESEARCH+MODE%3A+ACTIVE+%5D" alt="Status animation"/>
 
 <br><br>
 
 <a href="https://github.com/KARUNESH-GUPTA">
-<img src="https://img.shields.io/badge/⌘_GITHUB-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.linkedin.com/in/karunesh-gupta-13b1652b0/">
-<img src="https://img.shields.io/badge/◈_LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/GitHub-KARUNESH--GUPTA-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
 <a href="mailto:karuneshgupta786@gmail.com">
-<img src="https://img.shields.io/badge/✉_EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-karuneshgupta786%40gmail.com-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://instagram.com/karunesh_gupta_">
+<img src="https://img.shields.io/badge/Instagram-%40karunesh__gupta__-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KARUNESH-GUPTA&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/KARUNESH-GUPTA?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/KARUNESH-GUPTA?style=for-the-badge&color=0284C7&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=KARUNESH-GUPTA&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/KARUNESH-GUPTA?style=for-the-badge&color=2563EB&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/KARUNESH-GUPTA?style=for-the-badge&color=1D4ED8&label=STARS" alt="Stars"/>
 
 </div>
 
 <br>
 
-<div align="center">
-
-KARUNESH // DIGITAL IDENTITY
-
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="230" alt="Animated binary code sticker"/>
-
-</div>
+01 ── ◈ WHO AM I?
 
 <table>
 <tr>
+<td width="63%" valign="top">
 
-<td width="60%" valign="top">
+👋 Hey, I'm Karunesh Gupta
 
-👋 WHO IS KARUNESH?
+I'm a B.Tech Computer Science & Engineering student with a strong interest in Cybersecurity, Computer Science and Research.
 
-I am Karunesh Gupta, a B.Tech Computer Science & Engineering student with a strong interest in:
+At the moment, my primary focus is GATE preparation while strengthening my programming, problem-solving ability and core Computer Science fundamentals.
 
-🔐 Cybersecurity
+🎯 My current direction
 
-💻 Computer Science
+        COMPUTER SCIENCE
+                │
+                ▼
+           PROBLEM SOLVING
+                │
+                ▼
+          CYBERSECURITY
+                │
+                ▼
+             RESEARCH
+                │
+                ▼
+       ADVANCED COMPUTING
 
-🔬 Research
-
-🧠 Problem Solving
-
-⚛️ Advanced Computing
-
-📚 GATE preparation
-
-I am currently focused on strengthening my core Computer Science fundamentals and turning what I learn into practical projects.
-
-My thinking loop
-
-        QUESTION
-           │
-           ▼
-      UNDERSTAND
-           │
-           ▼
-       EXPERIMENT
-           │
-           ▼
-        BUILD
-           │
-           ▼
-        BREAK
-           │
-           ▼
-        DEBUG
-           │
-           ▼
-       UNDERSTAND
-           │
-           └───────────────↻
-
-I don't want to only learn how technology works.
-I want to understand how it can be secured, improved and researched.
+I am interested in understanding how systems work, how they can fail, how they can be secured, and how technology can be pushed further through research.
 
 </td>
 
-<td width="40%" align="center">
+<td width="37%" align="center">
 
-<img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="310" alt="Cybersecurity animated hacker cat"/>
+<img src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" width="320" alt="Cybersecurity animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/THREAT%20LEVEL-LOW-020617?style=for-the-badge&labelColor=020617&color=0284C7"/>
-<br>
-<img src="https://img.shields.io/badge/RESEARCH%20CORE-ONLINE-020617?style=for-the-badge&labelColor=020617&color=06B6D4"/>
-<br>
-<img src="https://img.shields.io/badge/LEARNING%20ENGINE-RUNNING-020617?style=for-the-badge&labelColor=020617&color=2563EB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2100&pause=750&color=38BDF8&center=true&vCenter=true&repeat=true&width=320&height=32&lines=ACCESS+GRANTED+%E2%9C%93;SECURITY+MODE+ACTIVE;RESEARCH+MODE+ACTIVE" alt="Cyber status"/>
 
 </td>
-
 </tr>
 </table>
 
-<div align="center">
+02 ── ◈ CURRENT MISSION
 
-01 ◈ COMMAND CENTER
+<div align="center">
 
 <table>
 <tr>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/01-0B1220?style=for-the-badge&color=0EA5E9"/>
+<td align="center" width="25%">
 
 📚
 
 GATE
 
-Core CS
-Algorithms
-Problem Solving
+Computer Science fundamentals
+& problem solving
 
 </td>
 
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/02-0B1220?style=for-the-badge&color=2563EB"/>
+<td align="center" width="25%">
 
 🔐
 
-CYBER
+SECURITY
 
-Security
-Secure Systems
-Threat Thinking
+Cybersecurity learning
+& secure-system thinking
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/03-0B1220?style=for-the-badge&color=06B6D4"/>
+🧠
+
+PROBLEM SOLVING
+
+Logic, algorithms
+& systematic thinking
+
+</td>
+
+<td align="center" width="25%">
 
 🔬
 
 RESEARCH
 
-Deep Questions
-Experimentation
-Scientific Thinking
+Exploration, experimentation
+& deeper technical thinking
 
 </td>
-
-<td width="25%" align="center">
-
-<img src="https://img.shields.io/badge/04-0B1220?style=for-the-badge&color=38BDF8"/>
-
-⚛️
-
-FUTURE
-
-Quantum
-Light-based Ideas
-Advanced Computing
-
-</td>
-
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2300&pause=600&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&height=40&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+BREAK+%E2%80%A2+DEBUG+%E2%80%A2+EVOLVE;KNOWLEDGE+%E2%86%92+EXPERIMENTATION+%E2%86%92+ENGINEERING;TODAY%27S+QUESTION+%E2%86%92+TOMORROW%27S+RESEARCH" alt="Animated command center"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=42&lines=LEARN+%E2%86%92+PRACTICE+%E2%86%92+BUILD+%E2%86%92+DEBUG+%E2%86%92+IMPROVE;ONE+CONCEPT+%E2%80%A2+ONE+PROBLEM+%E2%80%A2+ONE+PROJECT+AT+A+TIME;DISCIPLINE+TODAY+%E2%86%92+STRONGER+SYSTEMS+TOMORROW" alt="Learning loop"/>
 
 </div>
 
+03 ── ◈ RESEARCH VISION 🔬
+
 <div align="center">
-
-02 ◈ HOLOGRAPHIC RESEARCH MAP
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=CYBERSECURITY%20×%20RESEARCH&fontSize=27&fontColor=FFFFFF&color=0:020617,50:0B2A4A,100:0284C7&animation=twinkling&stroke=38BDF8&strokeWidth=1" width="92%" alt="Animated holographic divider"/>
 
 <table>
 <tr>
-
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 🔐
 
 CYBERSECURITY
 
+Secure systems
+Communication & data
+
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 ⚛️
 
 PHYSICS
 
+Scientific curiosity
+& deeper questions
+
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 🌌
 
 SPACE DATA
 
-</td>
-
-<td align="center" width="20%">
-
-🧬
-
-QUANTUM
+Security for
+scientific data
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 ⚡
 
-COMPUTING
+ADVANCED COMPUTING
+
+Quantum &
+light-based computing
 
 </td>
-
 </tr>
 </table>
 
+<br>
+
                          ┌───────────────────────┐
-                         │    CYBERSECURITY      │
+                         │     CYBERSECURITY     │
                          └───────────┬───────────┘
                                      │
                                      ▼
@@ -252,128 +205,144 @@ COMPUTING
                          │       RESEARCH        │
                          └───────────┬───────────┘
                                      │
-               ┌─────────────────────┼─────────────────────┐
-               │                     │                     │
-               ▼                     ▼                     ▼
-        ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-        │   PHYSICS   │       │   QUANTUM   │       │  COMPUTING  │
-        └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-               │                     │                     │
-               └─────────────────────┼─────────────────────┘
+              ┌──────────────────────┼──────────────────────┐
+              ▼                      ▼                      ▼
+        ┌────────────┐         ┌────────────┐         ┌────────────┐
+        │  PHYSICS   │         │  QUANTUM   │         │ COMPUTING  │
+        └─────┬──────┘         └─────┬──────┘         └─────┬──────┘
+              └──────────────────────┼──────────────────────┘
                                      ▼
                          ┌───────────────────────┐
-                         │ SECURE COMMUNICATION  │
-                         └───────────┬───────────┘
-                                     ▼
-                         ┌───────────────────────┐
-                         │ ADVANCED SYSTEMS      │
+                         │  SECURE COMMUNICATION │
+                         │   & ADVANCED SYSTEMS  │
                          └───────────────────────┘
-
-🔭 Long-term research direction
-
-Quantum cryptography • secure communication • physics-inspired computing • optical/light-based computing • cybersecurity for scientific/space data
 
 </div>
 
-<table>
-<tr>
+Long-term vision: explore the intersection of cybersecurity, physics, quantum cryptography, secure communication, advanced computing and security for scientific or space-related data.
 
-<td width="52%" valign="top">
+04 ── ◈ TECH ARSENAL
 
 <div align="center">
 
-03 ◈ TECH ARSENAL
+💻 PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark&perline=4" alt="Programming languages"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" alt="Web technologies"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=gcp,mongodb,mysql&theme=dark&perline=3" alt="Cloud database"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark&perline=3" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NumPy-061426?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Pandas-061426?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
+🌐 WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+<br><br>
+
+☁️ CLOUD & DATABASE
+
+<img src="https://skillicons.dev/icons?i=gcp,mongodb,mysql&theme=dark" />
+
+<br><br>
+
+🛠️ TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-07111F?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Pandas-07111F?style=for-the-badge&logo=pandas&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Canva-07111F?style=for-the-badge&logo=canva&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Adobe-07111F?style=for-the-badge&logo=adobe&logoColor=60A5FA"/>
 
 </div>
 
-</td>
-
-<td width="48%" valign="top">
+05 ── ◈ SKILL MATRIX
 
 <div align="center">
 
-04 ◈ SKILL SIGNAL
+🧩 DOMAIN
 
-C              ████████░░
-Java           ███████░░░
-Python         ████████░░
-JavaScript     ███████░░░
-HTML/CSS       ████████░░
-Google Cloud   ██████░░░░
-MongoDB        ██████░░░░
-MySQL          ██████░░░░
-Git/GitHub     ████████░░
+⚙️ TECHNOLOGIES
 
-<img src="https://img.shields.io/badge/STATUS-CONTINUOUSLY%20LEARNING-020617?style=for-the-badge&color=0EA5E9"/>
+💻 Programming
+
+C · Java · Python · JavaScript
+
+🌐 Web Development
+
+HTML · CSS · JavaScript
+
+☁️ Cloud
+
+Google Cloud
+
+🗄️ Database
+
+MongoDB · MySQL
+
+📊 Data
+
+NumPy · Pandas
+
+🎨 Design
+
+Canva · Adobe · Figma
+
+🔧 Tools
+
+Git · GitHub
 
 </div>
 
-</td>
-
-</tr>
-</table>
+06 ── ◈ WHAT I'M LEARNING
 
 <div align="center">
 
-05 ◈ VISUAL WORKSPACE
+AREA
+
+CURRENT FOCUS
+
+📚 GATE
+
+Computer Science fundamentals & examination preparation
+
+🧠 Problem Solving
+
+Algorithms, logic & systematic thinking
+
+🔐 Cybersecurity
+
+Security concepts & secure systems
+
+💻 Programming
+
+C · Java · Python · JavaScript
+
+🌐 Web
+
+HTML · CSS · JavaScript
+
+☁️ Cloud
+
+Google Cloud & cloud fundamentals
+
+🔬 Research
+
+Scientific thinking & technology research
+
+</div>
+
+07 ── ◈ BUILD & PROJECTS
+
+<div align="center">
 
 <table>
 <tr>
-
-<td width="50%" align="center">
-
-🧠 DEEP FOCUS
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="360" alt="Deep focus animated sticker"/>
-
-</td>
-
-<td width="50%" align="center">
-
-💻 CODE FLOW
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="360" alt="Code scroll animated sticker"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-06 ◈ BUILD LAB
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=80&text=BUILD%20MODE%20%2F%2F%20ACTIVE&fontSize=25&fontColor=FFFFFF&color=0:020617,100:075985&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="90%" alt="Build mode"/>
-
-<table>
-<tr>
-
 <td width="50%" valign="top">
 
 🛡️ CYBERSECURITY LEARNING PLATFORM
 
-A cybersecurity learning environment focused on:
+A learning-oriented cybersecurity platform focused on:
 
 COURSES
    ↓
@@ -385,7 +354,7 @@ PRACTICE
    ↓
 PROGRESS
 
-Exploring practical learning across cybersecurity concepts and interactive experiences.
+Exploring cybersecurity through practical and interactive learning experiences.
 
 </td>
 
@@ -393,178 +362,200 @@ Exploring practical learning across cybersecurity concepts and interactive exper
 
 🌐 COLLEGE WEBSITE
 
-A web project created using:
+A web development project created using:
 
 HTML · CSS · JavaScript
 
-Focus:
-
-Frontend structure
-
-Usability
-
-Presentation
-
-Web fundamentals
+Focused on frontend structure, presentation and usability.
 
 </td>
-
 </tr>
 </table>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=700&height=35&lines=BUILDING+IDEAS+INTO+PROJECTS;LEARNING+THROUGH+EXPERIMENTATION;EVERY+PROJECT+TEACHES+SOMETHING+NEW" alt="Building animation"/>
+
 </div>
+
+08 ── ◈ FEATURED GATE WORK
 
 <div align="center">
 
-07 ◈ GATE RESEARCH LAB
-
 <a href="https://github.com/KARUNESH-GUPTA/GATE-Exam-Questions-Part-1">
-<img src="https://img.shields.io/badge/GATE%20LAB-PART%201-020617?style=for-the-badge&logo=bookstack&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GATE%20QUESTIONS-PART%201-0B1220?style=for-the-badge&logo=bookstack&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/KARUNESH-GUPTA/GATE-Exam-Questions-Part-2">
-<img src="https://img.shields.io/badge/GATE%20LAB-PART%202-020617?style=for-the-badge&logo=bookstack&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/GATE%20QUESTIONS-PART%202-0B1220?style=for-the-badge&logo=bookstack&logoColor=60A5FA"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2100&pause=600&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=40&lines=QUESTION+%E2%86%92+CONCEPT+%E2%86%92+ANALYSIS+%E2%86%92+SOLUTION;PRACTICE+%E2%86%92+MISTAKE+%E2%86%92+REVISION+%E2%86%92+IMPROVEMENT" alt="GATE lab animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=720&height=32&lines=PRACTICE+%E2%80%A2+ANALYSE+%E2%80%A2+REVISE+%E2%80%A2+REPEAT" alt="GATE animation"/>
 
 </div>
 
+09 ── ◈ LEARNING & ACHIEVEMENTS
+
 <div align="center">
 
-08 ◈ KNOWLEDGE VAULT
-
-<img src="https://img.shields.io/badge/GOOGLE%20CLOUD-CYBERSECURITY-020617?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/SKILL%20BADGES-EARNED-020617?style=for-the-badge&logo=googlecloud&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/CLOUD%20SECURITY-LEARNING-020617?style=for-the-badge&logo=googlecloud&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Learning-0B1220?style=for-the-badge&logo=googlecloud&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Skill%20Badges-0B1220?style=for-the-badge&logo=googlecloud&logoColor=60A5FA"/>
 
 <br><br>
+
+📜 Selected Learning
 
 Strategies for Cloud Security Risk Management
-
-<br>
-
-Google Cloud cybersecurity learning & skill badges
+Google Cloud Cybersecurity Certificate / Skill Badges
+Cloud Security & Technology Learning
 
 </div>
 
+10 ── ◈ DEVELOPER PHILOSOPHY
+
 <div align="center">
 
-09 ◈ GITHUB CORE
+                            ┌───────────────┐
+                            │    CURIOUS    │
+                            └───────┬───────┘
+                                    ↓
+                            ┌───────────────┐
+                            │     LEARN     │
+                            └───────┬───────┘
+                                    ↓
+                            ┌───────────────┐
+                            │     BUILD     │
+                            └───────┬───────┘
+                                    ↓
+                            ┌───────────────┐
+                            │     BREAK     │
+                            └───────┬───────┘
+                                    ↓
+                            ┌───────────────┐
+                            │     DEBUG     │
+                            └───────┬───────┘
+                                    ↓
+                            ┌───────────────┐
+                            │    IMPROVE    │
+                            └───────┬───────┘
+                                    │
+                                    └──────────────↻
+
+"Cybersecurity is not a job, it's a responsibility." 🔐
+
+</div>
+
+11 ── ◈ GITHUB INTELLIGENCE
+
+<div align="center">
 
 <a href="https://github.com/KARUNESH-GUPTA">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KARUNESH-GUPTA&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KARUNESH-GUPTA&show_icons=true&hide_border=true&bg_color=050B16&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&count_private=true&include_all_commits=true" alt="Karunesh GitHub Stats"/>
 </a>
 
 <a href="https://github.com/KARUNESH-GUPTA">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARUNESH-GUPTA&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Top languages"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARUNESH-GUPTA&layout=compact&hide_border=true&bg_color=050B16&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=KARUNESH-GUPTA&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" width="76%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=KARUNESH-GUPTA&hide_border=true&background=050B16&ring=38BDF8&fire=2563EB&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B" width="76%" alt="GitHub Streak"/>
 
 </div>
 
+12 ── ◈ CONTRIBUTION ACTIVITY
+
 <div align="center">
 
-10 ◈ CONTRIBUTION RADAR
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARUNESH-GUPTA&bg_color=020617&color=38BDF8&line=0EA5E9&point=22D3EE&area=true&hide_border=true&custom_title=KARUNESH%20GUPTA%20%E2%80%94%20CONTRIBUTION%20RADAR" width="96%" alt="Contribution radar"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KARUNESH-GUPTA&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" width="94%" alt="GitHub trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARUNESH-GUPTA&bg_color=050B16&color=38BDF8&line=2563EB&point=22D3EE&area=true&hide_border=true&custom_title=KARUNESH%20GUPTA%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="95%" alt="Contribution Activity"/>
 
 </div>
 
+13 ── ◈ CYBER TERMINAL
+
 <div align="center">
 
-11 ◈ CYBER TERMINAL
+┌────────────────────────────────────────────────────────────────────┐
+│  karunesh@cyber-lab:~$ ./profile_status                         │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  [✓] PROFILE STATUS              ONLINE                            │
+│  [✓] GATE PREPARATION            ACTIVE                            │
+│  [✓] COMPUTER SCIENCE            LEARNING                         │
+│  [✓] CYBERSECURITY               EXPLORING                        │
+│  [✓] RESEARCH                    ACTIVE                            │
+│  [✓] PROJECT BUILDING            ACTIVE                            │
+│                                                                    │
+│  OBJECTIVE:                                                       │
+│  Build stronger fundamentals → solve harder problems →             │
+│  understand deeper systems → contribute through research.          │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1600&pause=500&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=38&lines=BOOTING+KARUNESH_OS...;LOADING+RESEARCH_CORE...;INITIALIZING+SECURITY_MODULE...;ALL+SYSTEMS+READY+%E2%9C%93" alt="Terminal boot animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2400&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=780&height=38&lines=%5B+ACCESS+GRANTED+%5D;%5B+KNOWLEDGE+BASE%3A+GROWING+%5D;%5B+RESEARCH+MODE%3A+ACTIVE+%5D;%5B+NEXT+LEVEL%3A+LOADING...+%5D" alt="Terminal animation"/>
 
 </div>
 
-╔════════════════════════════════════════════════════════════════════╗
-║  karunesh@cyber-lab:~$ ./system_status                          ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  IDENTITY        : KARUNESH GUPTA                                 ║
-║  DOMAIN          : COMPUTER SCIENCE                                ║
-║  PRIMARY FOCUS   : CYBERSECURITY + RESEARCH                       ║
-║  CURRENT MISSION : GATE PREPARATION                               ║
-║                                                                    ║
-║  SECURITY        : ████████████████████ ONLINE                    ║
-║  RESEARCH        : ███████████████████░ ACTIVE                    ║
-║  BUILDING        : ███████████████████░ ACTIVE                    ║
-║  LEARNING        : ████████████████████∞ CONTINUOUS               ║
-║                                                                    ║
-║  $ echo "Cybersecurity is not a job, it's a responsibility."      ║
-║  > Cybersecurity is not a job, it's a responsibility.             ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+14 ── ◈ CONNECT WITH ME
 
 <div align="center">
-
-12 ◈ SOCIAL TRANSMISSION
 
 <a href="https://github.com/KARUNESH-GUPTA">
-<img src="https://img.shields.io/badge/GITHUB-ACCESS-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-07111F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karunesh-gupta-13b1652b0/">
-<img src="https://img.shields.io/badge/LINKEDIN-TRANSMIT-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Karunesh%20Gupta-07111F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://instagram.com/karunesh_gupta_">
-<img src="https://img.shields.io/badge/INSTAGRAM-CONNECT-020617?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-%40karunesh__gupta__-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <a href="https://www.hackerrank.com/karunesh">
-<img src="https://img.shields.io/badge/HACKERRANK-PROFILE-020617?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<img src="https://img.shields.io/badge/HackerRank-karunesh-07111F?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 <a href="https://www.hackerearth.com/@karuneshgupta786">
-<img src="https://img.shields.io/badge/HACKEREARTH-PROFILE-020617?style=for-the-badge&logo=hackerearth&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/HackerEarth-karuneshgupta786-07111F?style=for-the-badge&logo=hackerearth&logoColor=60A5FA"/>
 </a>
 
 <a href="mailto:karuneshgupta786@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-OPEN%20CHANNEL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-07111F?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br><br>
 
 <a href="https://sunilkirana.my.canva.site/karunesh-gupta">
-<img src="https://img.shields.io/badge/PORTFOLIO-ENTER-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-07111F?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+</a>
+
+<a href="https://www.canva.com/design/DAGoMzUtOyQ/t1SDk4iZ9Bl0m8CCJ5v1dA/view?utm_content=DAGoMzUtOyQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5fa814aec1">
+<img src="https://img.shields.io/badge/Experience-View%20My%20Profile-07111F?style=for-the-badge&logo=readthedocs&logoColor=60A5FA"/>
 </a>
 
 </div>
 
+15 ── ◈ FUN FACT
+
 <div align="center">
 
-13 ◈ HUMAN.EXE
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="220" alt="Animated hello sticker"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2700&pause=800&color=60A5FA&center=true&vCenter=true&repeat=true&width=760&height=40&lines=I%27M+ACTUALLY+A+FUNNY+PERSON+%F0%9F%98%82;BUT+PEOPLE+OFTEN+THINK+I%27M+SERIOUS+%F0%9F%98%84" alt="Fun fact animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=850&color=60A5FA&center=true&vCenter=true&repeat=true&width=760&height=38&lines=I'm+actually+a+funny+person+%F0%9F%98%82;But+people+often+think+I'm+a+serious+person+%F0%9F%98%84" alt="Fun fact animation"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=KARUNESH%20GUPTA&fontSize=28&fontColor=FFFFFF&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20RESEARCH%20%E2%80%A2%20SECURE&descSize=14&descAlignY=65&color=0:020617,45:0B2A4A,100:0284C7&animation=twinkling" width="100%" alt="Animated blue footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&width=900&color=gradient&customColorList=18,12,6,2,0"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=800&height=40&lines=THE+NEXT+COMMIT+IS+ANOTHER+STEP+FORWARD+%F0%9F%9A%80;SEE+YOU+INSIDE+THE+NEXT+SYSTEM." alt="Final animated message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=820&height=42&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+RESEARCH+%E2%80%A2+SECURE;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80;See+you+in+the+next+commit." alt="Footer animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=18,12,6,2,0&animation=twinkling" width="100%" alt="Animated footer"/>
 
 </div>
